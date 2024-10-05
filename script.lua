@@ -162,4 +162,3 @@ end)
     else
         getgenv().Toggle = false
     end
-end)
